@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-noob-innerTHML';
+  content ='<h1>Content</h1>is nice';
 }
